@@ -15,4 +15,4 @@ go run ./cmd/client/main.go
 go run ./cmd/clientAdmin/main.go
 ```
 
-Pour retrouver les commandes disponibles, je vous invite à lire la <a href="./docs/ClientAdminDocumentationForThisServer .md">documentation des clients</a> qui est directement disponible depuis le dossier "docs".
+Pour retrouver les commandes disponibles, je vous invite à lire la [documentation des clients](./docs/ClientAdminDocumentationForThisServer.md) qui est directement disponible depuis le dossier "docs".
