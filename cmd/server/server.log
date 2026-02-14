@@ -1,0 +1,660 @@
+2025/12/15 13:40:29 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 13:40:29 DEBUG Now listening on port 3333
+2025/12/15 13:40:40 2025-12-15 13:40:40.122601922 +0100 CET m=+10.991251522 / 127.0.0.1:54282 / Has entered this command : list
+2025/12/15 13:40:40 DEBUG Cette commande a été reçue : list
+2025/12/15 13:40:40 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 13:40:47 2025-12-15 13:40:47.40847029 +0100 CET m=+18.277119874 / 127.0.0.1:54282 / Has entered this command : hide box.png
+2025/12/15 13:40:47 DEBUG Cette commande a été reçue : hide box.png
+2025/12/15 13:40:47 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide box.png
+2025/12/15 13:40:50 2025-12-15 13:40:50.094632252 +0100 CET m=+20.963281835 / 127.0.0.1:54282 / Has entered this command : list
+2025/12/15 13:40:50 DEBUG Cette commande a été reçue : list
+2025/12/15 13:40:50 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 13:49:50 2025-12-15 13:49:50.685707315 +0100 CET m=+561.554356964 / 127.0.0.1:54282 / Removed this client
+2025/12/15 13:56:57 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 13:56:57 DEBUG Now listening on port 3333
+2025/12/15 13:57:02 2025-12-15 13:57:02.018719457 +0100 CET m=+4.336781754 / 127.0.0.1:51480 / Has entered this command : list
+2025/12/15 13:57:02 DEBUG Cette commande a été reçue : list
+2025/12/15 13:57:02 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 13:57:10 2025-12-15 13:57:10.882062161 +0100 CET m=+13.200124489 / 127.0.0.1:51480 / Has entered this command : hide box.png
+2025/12/15 13:57:10 DEBUG Cette commande a été reçue : hide box.png
+2025/12/15 13:57:10 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide box.png
+2025/12/15 13:57:13 2025-12-15 13:57:13.146258722 +0100 CET m=+15.464321013 / 127.0.0.1:51480 / Has entered this command : list
+2025/12/15 13:57:13 DEBUG Cette commande a été reçue : list
+2025/12/15 13:57:13 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 13:58:22 2025-12-15 13:58:22.098175253 +0100 CET m=+84.416237549 / 127.0.0.1:51480 / Removed this client
+2025/12/15 13:58:25 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 13:58:25 DEBUG Now listening on port 3333
+2025/12/15 13:58:28 2025-12-15 13:58:28.762226356 +0100 CET m=+3.672404503 / 127.0.0.1:60272 / Has entered this command : list
+2025/12/15 13:58:28 DEBUG Cette commande a été reçue : list
+2025/12/15 13:58:28 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 13:58:33 2025-12-15 13:58:33.874097956 +0100 CET m=+8.784276032 / 127.0.0.1:60272 / Has entered this command : hide hello.txt
+2025/12/15 13:58:33 DEBUG Cette commande a été reçue : hide hello.txt
+2025/12/15 13:58:33 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide hello.txt
+2025/12/15 13:58:35 2025-12-15 13:58:35.274189617 +0100 CET m=+10.184367700 / 127.0.0.1:60272 / Has entered this command : list
+2025/12/15 13:58:35 DEBUG Cette commande a été reçue : list
+2025/12/15 13:58:35 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 13:58:49 2025-12-15 13:58:49.778054931 +0100 CET m=+24.688233006 / 127.0.0.1:60272 / Has entered this command : get hello.txt
+2025/12/15 13:58:49 DEBUG Cette commande a été reçue : get hello.txt
+2025/12/15 13:58:49 DEBUG [33mErreur lors de l'execution de cette commande : get hello.txt
+Unknown command[0m
+2025/12/15 13:59:00 2025-12-15 13:59:00.890063766 +0100 CET m=+35.800241874 / 127.0.0.1:60272 / Removed this client
+2025/12/15 13:59:16 2025-12-15 13:59:16.907067334 +0100 CET m=+51.817245420 / 127.0.0.1:42360 / Has entered this command : list
+2025/12/15 13:59:16 DEBUG Cette commande a été reçue : list
+2025/12/15 13:59:16 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 13:59:20 2025-12-15 13:59:20.425912876 +0100 CET m=+55.336090960 / 127.0.0.1:42360 / Has entered this command : get box.png
+2025/12/15 13:59:20 DEBUG Cette commande a été reçue : get box.png
+2025/12/15 13:59:20 DEBUG [32mSuccès[0m lors de l'execution de cette commande : get box.png
+2025/12/15 13:59:31 2025-12-15 13:59:31.65865585 +0100 CET m=+66.568833927 / 127.0.0.1:42360 / Has entered this command : get hello.txt
+2025/12/15 13:59:31 DEBUG Cette commande a été reçue : get hello.txt
+2025/12/15 13:59:31 DEBUG [32mSuccès[0m lors de l'execution de cette commande : get hello.txt
+2025/12/15 14:01:20 2025-12-15 14:01:20.033757943 +0100 CET m=+174.943936020 / 127.0.0.1:42360 / Removed this client
+2025/12/15 14:01:29 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 14:01:29 DEBUG Now listening on port 3333
+2025/12/15 14:01:38 2025-12-15 14:01:38.601425194 +0100 CET m=+9.011914963 / 127.0.0.1:40770 / Has entered this command : list
+2025/12/15 14:01:38 DEBUG Cette commande a été reçue : list
+2025/12/15 14:01:38 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:01:43 2025-12-15 14:01:43.385322185 +0100 CET m=+13.795811979 / 127.0.0.1:40770 / Has entered this command : hide hello.txt
+2025/12/15 14:01:43 DEBUG Cette commande a été reçue : hide hello.txt
+2025/12/15 14:01:43 DEBUG [33mErreur lors de l'execution de cette commande : hide hello.txt
+Unknown command[0m
+2025/12/15 14:01:47 2025-12-15 14:01:47.841080087 +0100 CET m=+18.251569874 / 127.0.0.1:40770 / Removed this client
+2025/12/15 14:02:00 2025-12-15 14:02:00.529001861 +0100 CET m=+30.939491630 / 127.0.0.1:56654 / Has entered this command : list
+2025/12/15 14:02:00 DEBUG Cette commande a été reçue : list
+2025/12/15 14:02:00 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:02:05 2025-12-15 14:02:05.840959108 +0100 CET m=+36.251448871 / 127.0.0.1:56654 / Has entered this command : hide box.png
+2025/12/15 14:02:05 DEBUG Cette commande a été reçue : hide box.png
+2025/12/15 14:02:05 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide box.png
+2025/12/15 14:02:07 2025-12-15 14:02:07.801056551 +0100 CET m=+38.211546324 / 127.0.0.1:56654 / Has entered this command : list
+2025/12/15 14:02:07 DEBUG Cette commande a été reçue : list
+2025/12/15 14:02:07 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:02:16 2025-12-15 14:02:16.976775977 +0100 CET m=+47.387265742 / 127.0.0.1:56654 / Has entered this command : reveal box.png
+2025/12/15 14:02:16 DEBUG Cette commande a été reçue : reveal box.png
+2025/12/15 14:02:16 DEBUG [32mSuccès[0m lors de l'execution de cette commande : reveal box.png
+2025/12/15 14:03:17 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 14:03:17 DEBUG Now listening on port 3333
+2025/12/15 14:03:21 2025-12-15 14:03:21.392825807 +0100 CET m=+3.538947080 / 127.0.0.1:50648 / Has entered this command : lsit
+2025/12/15 14:03:21 DEBUG Cette commande a été reçue : lsit
+2025/12/15 14:03:21 DEBUG [33mErreur lors de l'execution de cette commande : lsit
+Unknown command[0m
+2025/12/15 14:03:22 2025-12-15 14:03:22.68883286 +0100 CET m=+4.834954141 / 127.0.0.1:50648 / Has entered this command : list
+2025/12/15 14:03:22 DEBUG Cette commande a été reçue : list
+2025/12/15 14:03:22 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:03:27 2025-12-15 14:03:27.401944709 +0100 CET m=+9.548065988 / 127.0.0.1:50648 / Has entered this command : hide box.png
+2025/12/15 14:03:27 DEBUG Cette commande a été reçue : hide box.png
+2025/12/15 14:03:27 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide box.png
+2025/12/15 14:03:29 2025-12-15 14:03:29.864318147 +0100 CET m=+12.010439421 / 127.0.0.1:50648 / Has entered this command : list
+2025/12/15 14:03:29 DEBUG Cette commande a été reçue : list
+2025/12/15 14:03:29 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:10:25 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 14:10:25 DEBUG Now listening on port 3333
+2025/12/15 14:10:29 2025-12-15 14:10:29.98302106 +0100 CET m=+4.555298946 / 127.0.0.1:40782 / Has entered this command : list
+2025/12/15 14:10:29 DEBUG Cette commande a été reçue : list
+2025/12/15 14:10:29 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:10:34 2025-12-15 14:10:34.182938791 +0100 CET m=+8.755216676 / 127.0.0.1:40782 / Has entered this command : hide hello.txt
+2025/12/15 14:10:34 DEBUG Cette commande a été reçue : hide hello.txt
+2025/12/15 14:10:34 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide hello.txt
+2025/12/15 14:11:09 2025-12-15 14:11:09.158423093 +0100 CET m=+43.730700979 / 127.0.0.1:40782 / Has entered this command : list
+2025/12/15 14:11:09 DEBUG Cette commande a été reçue : list
+2025/12/15 14:11:09 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:11:39 2025-12-15 14:11:39.634509717 +0100 CET m=+74.206787613 / 127.0.0.1:40782 / Removed this client
+2025/12/15 14:11:44 2025-12-15 14:11:44.038522514 +0100 CET m=+78.610800413 / 127.0.0.1:45960 / Has entered this command : list
+2025/12/15 14:11:44 DEBUG Cette commande a été reçue : list
+2025/12/15 14:11:44 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:11:59 2025-12-15 14:11:59.877816871 +0100 CET m=+94.450094765 / 127.0.0.1:45960 / Has entered this command : list
+2025/12/15 14:11:59 DEBUG Cette commande a été reçue : list
+2025/12/15 14:11:59 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:12:16 2025-12-15 14:12:16.253906162 +0100 CET m=+110.826184046 / 127.0.0.1:45960 / Has entered this command : get hello.txt
+2025/12/15 14:12:16 DEBUG Cette commande a été reçue : get hello.txt
+2025/12/15 14:12:16 DEBUG [33mErreur lors de l'execution de cette commande : get hello.txt
+Unknown command[0m
+2025/12/15 14:12:56 2025-12-15 14:12:56.14135364 +0100 CET m=+150.713631503 / 127.0.0.1:45960 / Removed this client
+2025/12/15 14:12:59 2025-12-15 14:12:59.414818908 +0100 CET m=+153.987096797 / 127.0.0.1:54820 / Has entered this command : list
+2025/12/15 14:12:59 DEBUG Cette commande a été reçue : list
+2025/12/15 14:12:59 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:13:09 2025-12-15 14:13:09.08550108 +0100 CET m=+163.657778968 / 127.0.0.1:54820 / Has entered this command : d
+2025/12/15 14:13:09 DEBUG Cette commande a été reçue : d
+2025/12/15 14:13:09 DEBUG [33mErreur lors de l'execution de cette commande : d
+Unknown command[0m
+2025/12/15 14:13:15 2025-12-15 14:13:15.054333275 +0100 CET m=+169.626611174 / 127.0.0.1:54820 / Has entered this command : hide hello.txt
+2025/12/15 14:13:15 DEBUG Cette commande a été reçue : hide hello.txt
+2025/12/15 14:13:15 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide hello.txt
+2025/12/15 14:13:20 2025-12-15 14:13:20.18162343 +0100 CET m=+174.753901310 / 127.0.0.1:54820 / Has entered this command : hide hello.txt
+2025/12/15 14:13:20 DEBUG Cette commande a été reçue : hide hello.txt
+2025/12/15 14:13:20 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide hello.txt
+2025/12/15 14:14:29 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 14:14:29 DEBUG Now listening on port 3333
+2025/12/15 14:14:39 2025-12-15 14:14:39.629561257 +0100 CET m=+9.795691181 / 127.0.0.1:59380 / Has entered this command : hide hello.txt
+2025/12/15 14:14:39 DEBUG Cette commande a été reçue : hide hello.txt
+2025/12/15 14:14:39 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide hello.txt
+2025/12/15 14:14:43 2025-12-15 14:14:43.645508576 +0100 CET m=+13.811638502 / 127.0.0.1:59380 / Has entered this command : list
+2025/12/15 14:14:43 DEBUG Cette commande a été reçue : list
+2025/12/15 14:14:43 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:14:51 2025-12-15 14:14:51.09645023 +0100 CET m=+21.262580150 / 127.0.0.1:59380 / Removed this client
+2025/12/15 14:14:53 2025-12-15 14:14:53.701421423 +0100 CET m=+23.867551346 / 127.0.0.1:60980 / Has entered this command : list
+2025/12/15 14:14:53 DEBUG Cette commande a été reçue : list
+2025/12/15 14:14:53 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:14:58 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 14:14:58 DEBUG Now listening on port 3333
+2025/12/15 14:15:06 2025-12-15 14:15:06.717427954 +0100 CET m=+8.559530591 / 127.0.0.1:52818 / Has entered this command : list
+2025/12/15 14:15:06 DEBUG Cette commande a été reçue : list
+2025/12/15 14:15:06 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:15:10 2025-12-15 14:15:10.981335358 +0100 CET m=+12.823438000 / 127.0.0.1:52818 / Has entered this command : hide hello.txt
+2025/12/15 14:15:10 DEBUG Cette commande a été reçue : hide hello.txt
+2025/12/15 14:15:10 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide hello.txt
+2025/12/15 14:15:14 2025-12-15 14:15:14.077277949 +0100 CET m=+15.919380587 / 127.0.0.1:52818 / Has entered this command : list
+2025/12/15 14:15:14 DEBUG Cette commande a été reçue : list
+2025/12/15 14:15:14 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:16:24 2025-12-15 14:16:24.092792557 +0100 CET m=+85.934895196 / 127.0.0.1:47322 / Has entered this command : list
+2025/12/15 14:16:24 DEBUG Cette commande a été reçue : list
+2025/12/15 14:16:24 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:16:27 2025-12-15 14:16:27.42872952 +0100 CET m=+89.270832152 / 127.0.0.1:47322 / Has entered this command : reveal
+2025/12/15 14:16:27 DEBUG Cette commande a été reçue : reveal
+2025/12/15 14:16:27 DEBUG [33mErreur lors de l'execution de cette commande : reveal
+Unknown command[0m
+2025/12/15 14:16:29 2025-12-15 14:16:29.644638698 +0100 CET m=+91.486741342 / 127.0.0.1:47322 / Has entered this command : help
+2025/12/15 14:16:29 DEBUG Cette commande a été reçue : help
+2025/12/15 14:16:29 DEBUG [32mSuccès[0m lors de l'execution de cette commande : help
+2025/12/15 14:16:35 2025-12-15 14:16:35.540289952 +0100 CET m=+97.382392578 / 127.0.0.1:47322 / Has entered this command : get hello.txt
+2025/12/15 14:16:35 DEBUG Cette commande a été reçue : get hello.txt
+2025/12/15 14:16:35 DEBUG [33mErreur lors de l'execution de cette commande : get hello.txt
+[<ERROR>]FileUnknown[0m
+2025/12/15 14:16:42 2025-12-15 14:16:42.573754437 +0100 CET m=+104.415857073 / 127.0.0.1:52818 / Has entered this command : reveal hello.txt
+2025/12/15 14:16:42 DEBUG Cette commande a été reçue : reveal hello.txt
+2025/12/15 14:16:42 DEBUG [32mSuccès[0m lors de l'execution de cette commande : reveal hello.txt
+2025/12/15 14:16:56 2025-12-15 14:16:56.924564532 +0100 CET m=+118.766667176 / 127.0.0.1:52818 / Has entered this command : list
+2025/12/15 14:16:56 DEBUG Cette commande a été reçue : list
+2025/12/15 14:16:56 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:19:18 2025-12-15 14:19:18.20476474 +0100 CET m=+260.046867371 / 127.0.0.1:47322 / Has entered this command : reveal hide.txt
+2025/12/15 14:19:18 DEBUG Cette commande a été reçue : reveal hide.txt
+2025/12/15 14:19:18 DEBUG [33mErreur lors de l'execution de cette commande : reveal hide.txt
+Unknown command[0m
+2025/12/15 14:19:24 2025-12-15 14:19:24.52370648 +0100 CET m=+266.365809115 / 127.0.0.1:47322 / Has entered this command : reveal hello.txt
+2025/12/15 14:19:24 DEBUG Cette commande a été reçue : reveal hello.txt
+2025/12/15 14:19:24 DEBUG [33mErreur lors de l'execution de cette commande : reveal hello.txt
+Unknown command[0m
+2025/12/15 14:19:29 2025-12-15 14:19:29.949200859 +0100 CET m=+271.791303499 / 127.0.0.1:52818 / Has entered this command : reveal hello.txt
+2025/12/15 14:19:29 DEBUG Cette commande a été reçue : reveal hello.txt
+2025/12/15 14:19:29 DEBUG [32mSuccès[0m lors de l'execution de cette commande : reveal hello.txt
+2025/12/15 14:20:06 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 14:20:06 DEBUG Now listening on port 3333
+2025/12/15 14:20:18 2025-12-15 14:20:18.971081627 +0100 CET m=+12.327535840 / 127.0.0.1:48294 / Has entered this command : help
+2025/12/15 14:20:18 DEBUG Cette commande a été reçue : help
+2025/12/15 14:20:18 DEBUG [32mSuccès[0m lors de l'execution de cette commande : help
+2025/12/15 14:20:29 2025-12-15 14:20:29.435454134 +0100 CET m=+22.791908343 / 127.0.0.1:48294 / Has entered this command : list
+2025/12/15 14:20:29 DEBUG Cette commande a été reçue : list
+2025/12/15 14:20:29 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:20:37 2025-12-15 14:20:37.931405471 +0100 CET m=+31.287859690 / 127.0.0.1:48294 / Has entered this command : hide hello.txt
+2025/12/15 14:20:37 DEBUG Cette commande a été reçue : hide hello.txt
+2025/12/15 14:20:37 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide hello.txt
+2025/12/15 14:20:46 2025-12-15 14:20:46.299670747 +0100 CET m=+39.656124966 / 127.0.0.1:48294 / Has entered this command : list
+2025/12/15 14:20:46 DEBUG Cette commande a été reçue : list
+2025/12/15 14:20:46 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:20:50 2025-12-15 14:20:50.315528946 +0100 CET m=+43.671983161 / 127.0.0.1:48294 / Has entered this command : reveal hello.txt
+2025/12/15 14:20:50 DEBUG Cette commande a été reçue : reveal hello.txt
+2025/12/15 14:20:50 DEBUG [32mSuccès[0m lors de l'execution de cette commande : reveal hello.txt
+2025/12/15 14:20:53 2025-12-15 14:20:53.491488744 +0100 CET m=+46.847942959 / 127.0.0.1:48294 / Has entered this command : list
+2025/12/15 14:20:53 DEBUG Cette commande a été reçue : list
+2025/12/15 14:20:53 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:21:06 2025-12-15 14:21:06.256798878 +0100 CET m=+59.613253048 / 127.0.0.1:42720 / Has entered this command : list
+2025/12/15 14:21:06 DEBUG Cette commande a été reçue : list
+2025/12/15 14:21:06 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:21:11 2025-12-15 14:21:11.316339504 +0100 CET m=+64.672793723 / 127.0.0.1:48294 / Has entered this command : hide hello.txt
+2025/12/15 14:21:11 DEBUG Cette commande a été reçue : hide hello.txt
+2025/12/15 14:21:11 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide hello.txt
+2025/12/15 14:21:13 2025-12-15 14:21:13.971267102 +0100 CET m=+67.327721307 / 127.0.0.1:42720 / Has entered this command : list
+2025/12/15 14:21:13 DEBUG Cette commande a été reçue : list
+2025/12/15 14:21:13 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:21:16 2025-12-15 14:21:16.922880458 +0100 CET m=+70.279334678 / 127.0.0.1:42720 / Has entered this command : get hello.txt
+2025/12/15 14:21:16 DEBUG Cette commande a été reçue : get hello.txt
+2025/12/15 14:21:16 DEBUG [33mErreur lors de l'execution de cette commande : get hello.txt
+[<ERROR>]FileUnknown[0m
+2025/12/15 14:21:25 2025-12-15 14:21:25.371415978 +0100 CET m=+78.727870196 / 127.0.0.1:48294 / Has entered this command : reveal hello.txt
+2025/12/15 14:21:25 DEBUG Cette commande a été reçue : reveal hello.txt
+2025/12/15 14:21:25 DEBUG [32mSuccès[0m lors de l'execution de cette commande : reveal hello.txt
+2025/12/15 14:21:36 2025-12-15 14:21:36.443200194 +0100 CET m=+89.799654430 / 127.0.0.1:42720 / Has entered this command : list
+2025/12/15 14:21:36 DEBUG Cette commande a été reçue : list
+2025/12/15 14:21:36 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:23:20 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 14:23:20 DEBUG Now listening on port 3333
+2025/12/15 14:23:29 2025-12-15 14:23:29.538457329 +0100 CET m=+9.413879047 / 127.0.0.1:40398 / Has entered this command : get hello.txt
+2025/12/15 14:23:29 DEBUG Cette commande a été reçue : get hello.txt
+2025/12/15 14:23:29 DEBUG [33mErreur lors de l'execution de cette commande : get hello.txt
+Unknown command[0m
+2025/12/15 14:23:40 2025-12-15 14:23:40.834597055 +0100 CET m=+20.710018779 / 127.0.0.1:40398 / Has entered this command : hide hello.txt
+2025/12/15 14:23:40 DEBUG Cette commande a été reçue : hide hello.txt
+2025/12/15 14:23:40 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide hello.txt
+2025/12/15 14:23:42 2025-12-15 14:23:42.962881096 +0100 CET m=+22.838302812 / 127.0.0.1:40398 / Has entered this command : list
+2025/12/15 14:23:42 DEBUG Cette commande a été reçue : list
+2025/12/15 14:23:42 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:23:49 2025-12-15 14:23:49.042718532 +0100 CET m=+28.918140275 / 127.0.0.1:58230 / Has entered this command : list
+2025/12/15 14:23:49 DEBUG Cette commande a été reçue : list
+2025/12/15 14:23:49 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:23:57 2025-12-15 14:23:57.530444413 +0100 CET m=+37.405866140 / 127.0.0.1:40398 / Has entered this command : reveal
+2025/12/15 14:23:57 DEBUG Cette commande a été reçue : reveal
+2025/12/15 14:23:57 DEBUG [33mErreur lors de l'execution de cette commande : reveal
+wrong number of arguments[0m
+2025/12/15 14:24:04 2025-12-15 14:24:04.858412068 +0100 CET m=+44.733833780 / 127.0.0.1:40398 / Has entered this command : reveal hello.txt
+2025/12/15 14:24:04 DEBUG Cette commande a été reçue : reveal hello.txt
+2025/12/15 14:24:04 DEBUG [32mSuccès[0m lors de l'execution de cette commande : reveal hello.txt
+2025/12/15 14:24:08 2025-12-15 14:24:08.570354411 +0100 CET m=+48.445776125 / 127.0.0.1:58230 / Has entered this command : list
+2025/12/15 14:24:08 DEBUG Cette commande a été reçue : list
+2025/12/15 14:24:08 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:24:18 2025-12-15 14:24:18.36222136 +0100 CET m=+58.237643089 / 127.0.0.1:40398 / Has entered this command : list
+2025/12/15 14:24:18 DEBUG Cette commande a été reçue : list
+2025/12/15 14:24:18 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:24:51 2025-12-15 14:24:51.021018064 +0100 CET m=+90.896439785 / 127.0.0.1:40398 / Removed this client
+2025/12/15 14:24:59 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 14:24:59 DEBUG Now listening on port 3333
+2025/12/15 14:25:08 2025-12-15 14:25:08.978519877 +0100 CET m=+9.290273725 / 127.0.0.1:54066 / Has entered this command : list
+2025/12/15 14:25:08 DEBUG Cette commande a été reçue : list
+2025/12/15 14:25:08 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:25:17 2025-12-15 14:25:17.482336511 +0100 CET m=+17.794090360 / 127.0.0.1:54066 / Has entered this command : hide hello.txt
+2025/12/15 14:25:17 DEBUG Cette commande a été reçue : hide hello.txt
+2025/12/15 14:25:17 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide hello.txt
+2025/12/15 14:25:18 2025-12-15 14:25:18.87418766 +0100 CET m=+19.185941506 / 127.0.0.1:54066 / Has entered this command : list
+2025/12/15 14:25:18 DEBUG Cette commande a été reçue : list
+2025/12/15 14:25:18 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:25:21 2025-12-15 14:25:21.842222919 +0100 CET m=+22.153976770 / 127.0.0.1:54066 / Has entered this command : hide h
+2025/12/15 14:25:21 DEBUG Cette commande a été reçue : hide h
+2025/12/15 14:25:21 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide h
+2025/12/15 14:25:28 2025-12-15 14:25:28.545830158 +0100 CET m=+28.857584001 / 127.0.0.1:54066 / Has entered this command : reveal hello.txt
+2025/12/15 14:25:28 DEBUG Cette commande a été reçue : reveal hello.txt
+2025/12/15 14:25:28 DEBUG [32mSuccès[0m lors de l'execution de cette commande : reveal hello.txt
+2025/12/15 14:25:31 2025-12-15 14:25:31.049557941 +0100 CET m=+31.361311791 / 127.0.0.1:54066 / Has entered this command : list
+2025/12/15 14:25:31 DEBUG Cette commande a été reçue : list
+2025/12/15 14:25:31 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:25:37 2025-12-15 14:25:37.218025372 +0100 CET m=+37.529779218 / 127.0.0.1:54066 / Has entered this command : hide folder
+2025/12/15 14:25:37 DEBUG Cette commande a été reçue : hide folder
+2025/12/15 14:25:37 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide folder
+2025/12/15 14:25:39 2025-12-15 14:25:39.362167717 +0100 CET m=+39.673921567 / 127.0.0.1:54066 / Has entered this command : list
+2025/12/15 14:25:39 DEBUG Cette commande a été reçue : list
+2025/12/15 14:25:39 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:25:46 2025-12-15 14:25:46.057695302 +0100 CET m=+46.369449154 / 127.0.0.1:54066 / Has entered this command : reveal folder
+2025/12/15 14:25:46 DEBUG Cette commande a été reçue : reveal folder
+2025/12/15 14:25:46 DEBUG [32mSuccès[0m lors de l'execution de cette commande : reveal folder
+2025/12/15 14:25:56 2025-12-15 14:25:56.321642684 +0100 CET m=+56.633396524 / 127.0.0.1:54066 / Has entered this command : hide folder/../hello.txt
+2025/12/15 14:25:56 DEBUG Cette commande a été reçue : hide folder/../hello.txt
+2025/12/15 14:25:56 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide folder/../hello.txt
+2025/12/15 14:25:58 2025-12-15 14:25:58.057431849 +0100 CET m=+58.369185693 / 127.0.0.1:54066 / Has entered this command : ls
+2025/12/15 14:25:58 DEBUG Cette commande a été reçue : ls
+2025/12/15 14:25:58 DEBUG [33mErreur lors de l'execution de cette commande : ls
+Unknown command[0m
+2025/12/15 14:26:00 2025-12-15 14:26:00.105533505 +0100 CET m=+60.417287345 / 127.0.0.1:54066 / Has entered this command : list
+2025/12/15 14:26:00 DEBUG Cette commande a été reçue : list
+2025/12/15 14:26:00 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:26:12 2025-12-15 14:26:12.48701961 +0100 CET m=+72.798773398 / 127.0.0.1:54066 / Has entered this command : reveal hello.txt
+2025/12/15 14:26:12 DEBUG Cette commande a été reçue : reveal hello.txt
+2025/12/15 14:26:12 DEBUG [32mSuccès[0m lors de l'execution de cette commande : reveal hello.txt
+2025/12/15 14:26:26 2025-12-15 14:26:26.058496041 +0100 CET m=+86.370249830 / 127.0.0.1:54066 / Removed this client
+2025/12/15 14:31:07 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 14:31:07 DEBUG Now listening on port 3333
+2025/12/15 14:31:14 2025-12-15 14:31:14.012758433 +0100 CET m=+6.392702310 / 127.0.0.1:37190 / Has entered this command : list
+2025/12/15 14:31:14 DEBUG Cette commande a été reçue : list
+2025/12/15 14:31:14 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:31:29 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 14:31:29 DEBUG Now listening on port 3333
+2025/12/15 14:31:34 2025-12-15 14:31:34.445518413 +0100 CET m=+5.081001745 / 127.0.0.1:49248 / Has entered this command : list
+2025/12/15 14:31:34 DEBUG Cette commande a été reçue : list
+2025/12/15 14:31:34 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:31:57 2025-12-15 14:31:57.895848123 +0100 CET m=+28.531331481 / 127.0.0.1:49248 / Has entered this command : reveal hello.txt
+2025/12/15 14:31:57 DEBUG Cette commande a été reçue : reveal hello.txt
+2025/12/15 14:31:57 DEBUG [32mSuccès[0m lors de l'execution de cette commande : reveal hello.txt
+2025/12/15 14:32:00 2025-12-15 14:32:00.271157954 +0100 CET m=+30.906641345 / 127.0.0.1:49248 / Has entered this command : list
+2025/12/15 14:32:00 DEBUG Cette commande a été reçue : list
+2025/12/15 14:32:00 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:32:07 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 14:32:07 DEBUG Now listening on port 3333
+2025/12/15 14:32:51 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 14:32:51 DEBUG Now listening on port 3333
+2025/12/15 14:33:02 2025-12-15 14:33:02.566653445 +0100 CET m=+11.184970399 / 127.0.0.1:43616 / Has entered this command : list
+2025/12/15 14:33:02 DEBUG Cette commande a été reçue : list
+2025/12/15 14:33:02 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:33:04 2025-12-15 14:33:04.473596332 +0100 CET m=+13.091913295 / 127.0.0.1:43616 / Removed this client
+2025/12/15 14:33:42 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 14:33:42 DEBUG Now listening on port 3333
+2025/12/15 14:33:45 2025-12-15 14:33:45.798905498 +0100 CET m=+3.751567375 / 127.0.0.1:38888 / Has entered this command : list
+2025/12/15 14:33:45 DEBUG Cette commande a été reçue : list
+2025/12/15 14:33:45 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:37:31 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 14:37:31 DEBUG Now listening on port 3333
+2025/12/15 14:37:42 2025-12-15 14:37:42.756647325 +0100 CET m=+10.833513172 / 127.0.0.1:48568 / Has entered this command : list
+2025/12/15 14:37:42 DEBUG Cette commande a été reçue : list
+2025/12/15 14:37:42 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:37:50 2025-12-15 14:37:50.621563559 +0100 CET m=+18.698429425 / 127.0.0.1:46386 / Has entered this command : list
+2025/12/15 14:37:50 DEBUG Cette commande a été reçue : list
+2025/12/15 14:37:50 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:38:04 2025-12-15 14:38:04.354128072 +0100 CET m=+32.430993866 / 127.0.0.1:48568 / Has entered this command : help
+2025/12/15 14:38:04 DEBUG Cette commande a été reçue : help
+2025/12/15 14:38:04 DEBUG [32mSuccès[0m lors de l'execution de cette commande : help
+2025/12/15 14:38:07 2025-12-15 14:38:07.097577482 +0100 CET m=+35.174443276 / 127.0.0.1:46386 / Has entered this command : help
+2025/12/15 14:38:07 DEBUG Cette commande a été reçue : help
+2025/12/15 14:38:07 DEBUG [32mSuccès[0m lors de l'execution de cette commande : help
+2025/12/15 14:38:23 2025-12-15 14:38:23.324654212 +0100 CET m=+51.401520102 / 127.0.0.1:48568 / Has entered this command : hide folder
+2025/12/15 14:38:23 DEBUG Cette commande a été reçue : hide folder
+2025/12/15 14:38:23 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide folder
+2025/12/15 14:38:28 2025-12-15 14:38:28.900655244 +0100 CET m=+56.977521516 / 127.0.0.1:46386 / Has entered this command : list
+2025/12/15 14:38:28 DEBUG Cette commande a été reçue : list
+2025/12/15 14:38:28 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:39:02 2025-12-15 14:39:02.036839802 +0100 CET m=+90.113705658 / 127.0.0.1:48568 / Has entered this command : reveal folder
+2025/12/15 14:39:02 DEBUG Cette commande a été reçue : reveal folder
+2025/12/15 14:39:02 DEBUG [32mSuccès[0m lors de l'execution de cette commande : reveal folder
+2025/12/15 14:39:05 2025-12-15 14:39:05.629004383 +0100 CET m=+93.705870297 / 127.0.0.1:46386 / Has entered this command : list
+2025/12/15 14:39:05 DEBUG Cette commande a été reçue : list
+2025/12/15 14:39:05 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:39:22 2025-12-15 14:39:22.500788552 +0100 CET m=+110.577654460 / 127.0.0.1:46386 / Removed this client
+2025/12/15 14:39:34 2025-12-15 14:39:34.988319821 +0100 CET m=+123.065185664 / 127.0.0.1:55074 / Has entered this command : list
+2025/12/15 14:39:34 DEBUG Cette commande a été reçue : list
+2025/12/15 14:39:34 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:39:43 2025-12-15 14:39:43.164046994 +0100 CET m=+131.240912834 / 127.0.0.1:55074 / Has entered this command : help
+2025/12/15 14:39:43 DEBUG Cette commande a été reçue : help
+2025/12/15 14:39:43 DEBUG [32mSuccès[0m lors de l'execution de cette commande : help
+2025/12/15 14:39:51 2025-12-15 14:39:51.084486107 +0100 CET m=+139.161351962 / 127.0.0.1:55074 / Has entered this command : get hello.txt
+2025/12/15 14:39:51 DEBUG Cette commande a été reçue : get hello.txt
+2025/12/15 14:39:51 DEBUG [32mSuccès[0m lors de l'execution de cette commande : get hello.txt
+2025/12/15 14:39:57 2025-12-15 14:39:57.148354247 +0100 CET m=+145.225220098 / 127.0.0.1:55074 / Has entered this command : list
+2025/12/15 14:39:57 DEBUG Cette commande a été reçue : list
+2025/12/15 14:39:57 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:40:04 2025-12-15 14:40:04.300379688 +0100 CET m=+152.377245543 / 127.0.0.1:48568 / Has entered this command : hide folder
+2025/12/15 14:40:04 DEBUG Cette commande a été reçue : hide folder
+2025/12/15 14:40:04 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide folder
+2025/12/15 14:40:09 2025-12-15 14:40:09.195831774 +0100 CET m=+157.272697685 / 127.0.0.1:55074 / Has entered this command : get folder
+2025/12/15 14:40:09 DEBUG Cette commande a été reçue : get folder
+2025/12/15 14:40:09 DEBUG [33mErreur lors de l'execution de cette commande : get folder
+[<ERROR>]FileUnknown[0m
+2025/12/15 14:40:16 2025-12-15 14:40:16.589515649 +0100 CET m=+164.666381504 / 127.0.0.1:48568 / Has entered this command : reveal folder
+2025/12/15 14:40:16 DEBUG Cette commande a été reçue : reveal folder
+2025/12/15 14:40:16 DEBUG [32mSuccès[0m lors de l'execution de cette commande : reveal folder
+2025/12/15 14:40:19 2025-12-15 14:40:19.868257504 +0100 CET m=+167.945123365 / 127.0.0.1:55074 / Has entered this command : list
+2025/12/15 14:40:19 DEBUG Cette commande a été reçue : list
+2025/12/15 14:40:19 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:40:24 2025-12-15 14:40:24.788196431 +0100 CET m=+172.865062285 / 127.0.0.1:55074 / Has entered this command : get folder
+2025/12/15 14:40:24 DEBUG Cette commande a été reçue : get folder
+2025/12/15 14:40:24 DEBUG [33mErreur lors de l'execution de cette commande : get folder
+read /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/folder: is a directory[0m
+2025/12/15 14:40:34 2025-12-15 14:40:34.192632442 +0100 CET m=+182.269498235 / 127.0.0.1:48568 / Has entered this command : help
+2025/12/15 14:40:34 DEBUG Cette commande a été reçue : help
+2025/12/15 14:40:34 DEBUG [32mSuccès[0m lors de l'execution de cette commande : help
+2025/12/15 14:40:41 2025-12-15 14:40:41.028070216 +0100 CET m=+189.104936068 / 127.0.0.1:48568 / Has entered this command : terminate
+2025/12/15 14:40:41 DEBUG Cette commande a été reçue : terminate
+2025/12/15 14:40:41 2025-12-15 14:40:41.028162447 +0100 CET m=+189.105028282 / 127.0.0.1:48568 / Removed this client
+2025/12/15 14:40:41 2025-12-15 14:40:41.028262495 +0100 CET m=+189.105128330 / 127.0.0.1:55074 / Removed this client
+2025/12/15 14:40:41 DEBUG [32mSuccès[0m lors de l'execution de cette commande : terminate
+2025/12/15 14:52:41 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 14:52:41 DEBUG Now listening on port 3333
+2025/12/15 14:52:47 2025-12-15 14:52:47.583790933 +0100 CET m=+5.952741610 / 127.0.0.1:56202 / Has entered this command : list
+2025/12/15 14:52:47 DEBUG Cette commande a été reçue : list
+2025/12/15 14:52:47 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:52:54 2025-12-15 14:52:54.863737905 +0100 CET m=+13.232688589 / 127.0.0.1:56202 / Has entered this command : hide folder
+2025/12/15 14:52:54 DEBUG Cette commande a été reçue : hide folder
+2025/12/15 14:52:54 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide folder
+2025/12/15 14:53:01 2025-12-15 14:53:01.896438224 +0100 CET m=+20.265388906 / 127.0.0.1:56202 / Has entered this command : list
+2025/12/15 14:53:01 DEBUG Cette commande a été reçue : list
+2025/12/15 14:53:01 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:53:04 2025-12-15 14:53:04.967905841 +0100 CET m=+23.336856496 / 127.0.0.1:56202 / Has entered this command : list folder
+2025/12/15 14:53:04 DEBUG Cette commande a été reçue : list folder
+2025/12/15 14:53:04 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list folder
+2025/12/15 14:53:49 2025-12-15 14:53:49.823881944 +0100 CET m=+68.192832578 / 127.0.0.1:56202 / Has entered this command : reveal folder
+2025/12/15 14:53:49 DEBUG Cette commande a été reçue : reveal folder
+2025/12/15 14:53:49 DEBUG [32mSuccès[0m lors de l'execution de cette commande : reveal folder
+2025/12/15 14:53:53 2025-12-15 14:53:53.167248354 +0100 CET m=+71.536199021 / 127.0.0.1:56202 / Has entered this command : list folder
+2025/12/15 14:53:53 DEBUG Cette commande a été reçue : list folder
+2025/12/15 14:53:53 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list folder
+2025/12/15 14:54:00 2025-12-15 14:54:00.095296125 +0100 CET m=+78.464246787 / 127.0.0.1:56202 / Has entered this command : list
+2025/12/15 14:54:00 DEBUG Cette commande a été reçue : list
+2025/12/15 14:54:00 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:54:06 2025-12-15 14:54:06.039519114 +0100 CET m=+84.408469750 / 127.0.0.1:56202 / Has entered this command : hide folder
+2025/12/15 14:54:06 DEBUG Cette commande a été reçue : hide folder
+2025/12/15 14:54:06 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide folder
+2025/12/15 14:54:08 2025-12-15 14:54:08.406815857 +0100 CET m=+86.775766606 / 127.0.0.1:56202 / Has entered this command : list
+2025/12/15 14:54:08 DEBUG Cette commande a été reçue : list
+2025/12/15 14:54:08 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:54:17 2025-12-15 14:54:17.223504889 +0100 CET m=+95.592455556 / 127.0.0.1:56202 / Has entered this command : reveal folder
+2025/12/15 14:54:17 DEBUG Cette commande a été reçue : reveal folder
+2025/12/15 14:54:17 DEBUG [32mSuccès[0m lors de l'execution de cette commande : reveal folder
+2025/12/15 14:54:18 2025-12-15 14:54:18.844964595 +0100 CET m=+97.213915191 / 127.0.0.1:56202 / Has entered this command : list
+2025/12/15 14:54:18 DEBUG Cette commande a été reçue : list
+2025/12/15 14:54:18 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:54:28 2025-12-15 14:54:28.431015901 +0100 CET m=+106.799966551 / 127.0.0.1:56202 / Has entered this command : list folder
+2025/12/15 14:54:28 DEBUG Cette commande a été reçue : list folder
+2025/12/15 14:54:28 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list folder
+2025/12/15 14:57:11 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 14:57:11 DEBUG Now listening on port 3333
+2025/12/15 14:57:14 2025-12-15 14:57:14.91818904 +0100 CET m=+3.744489978 / 127.0.0.1:33402 / Has entered this command : list
+2025/12/15 14:57:14 DEBUG Cette commande a été reçue : list
+2025/12/15 14:57:14 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:57:18 2025-12-15 14:57:18.614499098 +0100 CET m=+7.440800040 / 127.0.0.1:33402 / Has entered this command : hide folder
+2025/12/15 14:57:18 DEBUG Cette commande a été reçue : hide folder
+2025/12/15 14:57:18 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide folder
+2025/12/15 14:57:19 2025-12-15 14:57:19.678238201 +0100 CET m=+8.504539145 / 127.0.0.1:33402 / Has entered this command : list
+2025/12/15 14:57:19 DEBUG Cette commande a été reçue : list
+2025/12/15 14:57:19 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:57:29 2025-12-15 14:57:29.565641155 +0100 CET m=+18.391942091 / 127.0.0.1:33402 / Has entered this command : list folder
+2025/12/15 14:57:29 DEBUG Cette commande a été reçue : list folder
+2025/12/15 14:57:29 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list folder
+2025/12/15 14:58:01 2025-12-15 14:58:01.054090481 +0100 CET m=+49.880391422 / 127.0.0.1:33402 / Has entered this command : list
+2025/12/15 14:58:01 DEBUG Cette commande a été reçue : list
+2025/12/15 14:58:01 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:58:10 2025-12-15 14:58:10.638230209 +0100 CET m=+59.464531150 / 127.0.0.1:33402 / Has entered this command : reveal folder
+2025/12/15 14:58:10 DEBUG Cette commande a été reçue : reveal folder
+2025/12/15 14:58:10 DEBUG [32mSuccès[0m lors de l'execution de cette commande : reveal folder
+2025/12/15 14:58:11 2025-12-15 14:58:11.837755792 +0100 CET m=+60.664056734 / 127.0.0.1:33402 / Has entered this command : list
+2025/12/15 14:58:11 DEBUG Cette commande a été reçue : list
+2025/12/15 14:58:11 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:59:12 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 14:59:12 DEBUG Now listening on port 3333
+2025/12/15 14:59:18 2025-12-15 14:59:18.837033372 +0100 CET m=+5.915404037 / 127.0.0.1:49096 / Has entered this command : list
+2025/12/15 14:59:18 DEBUG Cette commande a été reçue : list
+2025/12/15 14:59:18 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 14:59:24 2025-12-15 14:59:24.069549704 +0100 CET m=+11.147920358 / 127.0.0.1:49096 / Has entered this command : list folder
+2025/12/15 14:59:24 DEBUG Cette commande a été reçue : list folder
+2025/12/15 14:59:24 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list folder
+2025/12/15 14:59:29 2025-12-15 14:59:29.101654202 +0100 CET m=+16.180024855 / 127.0.0.1:49096 / Has entered this command : hide folder
+2025/12/15 14:59:29 DEBUG Cette commande a été reçue : hide folder
+2025/12/15 14:59:29 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide folder
+2025/12/15 14:59:33 2025-12-15 14:59:33.501225945 +0100 CET m=+20.579596597 / 127.0.0.1:49096 / Has entered this command : list folder
+2025/12/15 14:59:33 DEBUG Cette commande a été reçue : list folder
+2025/12/15 14:59:33 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list folder
+2025/12/15 15:00:34 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 15:00:34 DEBUG Now listening on port 3333
+2025/12/15 15:00:37 2025-12-15 15:00:37.876912932 +0100 CET m=+3.672975021 / 127.0.0.1:38708 / Has entered this command : list
+2025/12/15 15:00:37 DEBUG Cette commande a été reçue : list
+2025/12/15 15:00:37 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 15:00:41 2025-12-15 15:00:41.389356242 +0100 CET m=+7.185418376 / 127.0.0.1:38708 / Has entered this command : hide hello.txt
+2025/12/15 15:00:41 DEBUG Cette commande a été reçue : hide hello.txt
+2025/12/15 15:00:41 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide hello.txt
+2025/12/15 15:00:47 2025-12-15 15:00:47.885130766 +0100 CET m=+13.681192901 / 127.0.0.1:38708 / Has entered this command : reveal hello.txt
+2025/12/15 15:00:47 DEBUG Cette commande a été reçue : reveal hello.txt
+2025/12/15 15:00:47 DEBUG [32mSuccès[0m lors de l'execution de cette commande : reveal hello.txt
+2025/12/15 15:02:02 2025-12-15 15:02:02.350643231 +0100 CET m=+88.146705375 / 127.0.0.1:38708 / Removed this client
+2025/12/15 15:02:06 2025-12-15 15:02:06.295574636 +0100 CET m=+92.091636723 / 127.0.0.1:38408 / Removed this client
+2025/12/15 15:02:08 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 15:02:08 DEBUG Now listening on port 3333
+2025/12/15 15:02:12 2025-12-15 15:02:12.380483437 +0100 CET m=+3.843589255 / 127.0.0.1:34760 / Has entered this command : list
+2025/12/15 15:02:12 DEBUG Cette commande a été reçue : list
+2025/12/15 15:02:12 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 15:02:15 2025-12-15 15:02:15.436194664 +0100 CET m=+6.899300526 / 127.0.0.1:34760 / Has entered this command : list folder
+2025/12/15 15:02:15 DEBUG Cette commande a été reçue : list folder
+2025/12/15 15:02:15 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list folder
+2025/12/15 15:02:19 2025-12-15 15:02:19.164358145 +0100 CET m=+10.627463963 / 127.0.0.1:34760 / Has entered this command : hide folder
+2025/12/15 15:02:19 DEBUG Cette commande a été reçue : hide folder
+2025/12/15 15:02:19 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide folder
+2025/12/15 15:02:22 2025-12-15 15:02:22.676640571 +0100 CET m=+14.139746388 / 127.0.0.1:34760 / Has entered this command : reveal folder
+2025/12/15 15:02:22 DEBUG Cette commande a été reçue : reveal folder
+2025/12/15 15:02:22 DEBUG [32mSuccès[0m lors de l'execution de cette commande : reveal folder
+2025/12/15 15:03:07 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 15:03:07 DEBUG Now listening on port 3333
+2025/12/15 15:03:10 2025-12-15 15:03:10.140496047 +0100 CET m=+2.789938894 / 127.0.0.1:57762 / Has entered this command : list
+2025/12/15 15:03:10 DEBUG Cette commande a été reçue : list
+2025/12/15 15:03:10 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 15:04:46 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 15:04:46 DEBUG Now listening on port 3333
+2025/12/15 15:04:50 2025-12-15 15:04:50.188054554 +0100 CET m=+4.011495950 / 127.0.0.1:51320 / Has entered this command : list
+2025/12/15 15:04:50 DEBUG Cette commande a été reçue : list
+2025/12/15 15:04:50 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 15:06:22 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 15:06:22 DEBUG Now listening on port 3333
+2025/12/15 15:06:27 2025-12-15 15:06:27.027286356 +0100 CET m=+4.923788178 / 127.0.0.1:50492 / Has entered this command : list
+2025/12/15 15:06:27 DEBUG Cette commande a été reçue : list
+2025/12/15 15:06:27 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 15:06:35 2025-12-15 15:06:35.411292934 +0100 CET m=+13.307794754 / 127.0.0.1:50492 / Has entered this command : hide folder
+2025/12/15 15:06:35 DEBUG Cette commande a été reçue : hide folder
+2025/12/15 15:06:35 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide folder
+2025/12/15 15:06:37 2025-12-15 15:06:37.539161221 +0100 CET m=+15.435663044 / 127.0.0.1:50492 / Has entered this command : list folder
+2025/12/15 15:06:37 DEBUG Cette commande a été reçue : list folder
+2025/12/15 15:06:37 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list folder
+2025/12/15 15:06:42 2025-12-15 15:06:42.755207935 +0100 CET m=+20.651709757 / 127.0.0.1:50492 / Has entered this command : list
+2025/12/15 15:06:42 DEBUG Cette commande a été reçue : list
+2025/12/15 15:06:42 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 15:08:46 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 15:08:46 DEBUG Now listening on port 3333
+2025/12/15 15:08:51 2025-12-15 15:08:51.722325756 +0100 CET m=+5.416934146 / 127.0.0.1:42634 / Has entered this command : list
+2025/12/15 15:08:51 DEBUG Cette commande a été reçue : list
+2025/12/15 15:08:51 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 15:08:56 2025-12-15 15:08:56.954811202 +0100 CET m=+10.649419596 / 127.0.0.1:42634 / Has entered this command : list folder
+2025/12/15 15:08:56 DEBUG Cette commande a été reçue : list folder
+2025/12/15 15:08:56 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list folder
+2025/12/15 15:09:00 2025-12-15 15:09:00.466406433 +0100 CET m=+14.161014824 / 127.0.0.1:42634 / Has entered this command : hide folder
+2025/12/15 15:09:00 DEBUG Cette commande a été reçue : hide folder
+2025/12/15 15:09:00 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide folder
+2025/12/15 15:09:02 2025-12-15 15:09:02.082345791 +0100 CET m=+15.776954242 / 127.0.0.1:42634 / Has entered this command : list
+2025/12/15 15:09:02 DEBUG Cette commande a été reçue : list
+2025/12/15 15:09:02 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 15:09:05 2025-12-15 15:09:05.506388035 +0100 CET m=+19.200996495 / 127.0.0.1:42634 / Has entered this command : list folder
+2025/12/15 15:09:05 DEBUG Cette commande a été reçue : list folder
+2025/12/15 15:09:05 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list folder
+2025/12/15 15:09:26 2025-12-15 15:09:26.116084074 +0100 CET m=+39.810692526 / 127.0.0.1:42634 / Removed this client
+2025/12/15 15:09:40 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 15:09:40 DEBUG Now listening on port 3333
+2025/12/15 15:09:44 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 15:09:44 DEBUG Now listening on port 3333
+2025/12/15 15:09:49 2025-12-15 15:09:49.698247408 +0100 CET m=+4.912030945 / 127.0.0.1:45328 / Has entered this command : list
+2025/12/15 15:09:49 DEBUG Cette commande a été reçue : list
+2025/12/15 15:09:49 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 15:10:04 2025-12-15 15:10:04.538098243 +0100 CET m=+19.751881779 / 127.0.0.1:45328 / Has entered this command : list folder
+2025/12/15 15:10:04 DEBUG Cette commande a été reçue : list folder
+2025/12/15 15:10:04 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list folder
+2025/12/15 15:10:16 2025-12-15 15:10:16.131524927 +0100 CET m=+31.345308485 / 127.0.0.1:45328 / Has entered this command : hide folder
+2025/12/15 15:10:16 DEBUG Cette commande a été reçue : hide folder
+2025/12/15 15:10:16 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide folder
+2025/12/15 15:10:19 2025-12-15 15:10:19.266042437 +0100 CET m=+34.479825977 / 127.0.0.1:45328 / Has entered this command : list folder
+2025/12/15 15:10:19 DEBUG Cette commande a été reçue : list folder
+2025/12/15 15:10:19 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list folder
+2025/12/15 15:11:52 2025-12-15 15:11:52.852637568 +0100 CET m=+128.066421104 / 127.0.0.1:45328 / Removed this client
+2025/12/15 15:11:56 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 15:11:56 DEBUG Now listening on port 3333
+2025/12/15 15:12:02 2025-12-15 15:12:02.289765838 +0100 CET m=+5.647582562 / 127.0.0.1:47152 / Has entered this command : list
+2025/12/15 15:12:02 DEBUG Cette commande a été reçue : list
+2025/12/15 15:12:02 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 15:12:16 2025-12-15 15:12:16.225505067 +0100 CET m=+19.583321797 / 127.0.0.1:47152 / Has entered this command : hide hello.txt
+2025/12/15 15:12:16 DEBUG Cette commande a été reçue : hide hello.txt
+2025/12/15 15:12:16 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide hello.txt
+2025/12/15 15:12:21 2025-12-15 15:12:21.465313799 +0100 CET m=+24.823130481 / 127.0.0.1:47152 / Has entered this command : list
+2025/12/15 15:12:21 DEBUG Cette commande a été reçue : list
+2025/12/15 15:12:21 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 15:12:27 2025-12-15 15:12:27.98534733 +0100 CET m=+31.343164067 / 127.0.0.1:47152 / Has entered this command : reveal hello.txt
+2025/12/15 15:12:27 DEBUG Cette commande a été reçue : reveal hello.txt
+2025/12/15 15:12:27 DEBUG [32mSuccès[0m lors de l'execution de cette commande : reveal hello.txt
+2025/12/15 15:12:29 2025-12-15 15:12:29.425255954 +0100 CET m=+32.783072636 / 127.0.0.1:47152 / Has entered this command : list
+2025/12/15 15:12:29 DEBUG Cette commande a été reçue : list
+2025/12/15 15:12:29 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 15:18:05 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 15:18:05 DEBUG Now listening on port 3333
+2025/12/15 15:18:09 2025-12-15 15:18:09.767487972 +0100 CET m=+4.128130940 / 127.0.0.1:42000 / Has entered this command : list
+2025/12/15 15:18:09 DEBUG Cette commande a été reçue : list
+2025/12/15 15:18:09 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 15:18:13 2025-12-15 15:18:13.599478103 +0100 CET m=+7.960121029 / 127.0.0.1:42000 / Has entered this command : list folder
+2025/12/15 15:18:13 DEBUG Cette commande a été reçue : list folder
+2025/12/15 15:18:13 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list folder
+2025/12/15 15:18:16 2025-12-15 15:18:16.463331622 +0100 CET m=+10.823974550 / 127.0.0.1:42000 / Has entered this command : hide folder
+2025/12/15 15:18:16 DEBUG Cette commande a été reçue : hide folder
+2025/12/15 15:18:16 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide folder
+2025/12/15 15:18:18 2025-12-15 15:18:18.927678177 +0100 CET m=+13.288321148 / 127.0.0.1:42000 / Has entered this command : list folder
+2025/12/15 15:18:18 DEBUG Cette commande a été reçue : list folder
+2025/12/15 15:18:18 ERROR Hidden Folder
+2025/12/15 15:18:18 DEBUG [33mErreur lors de l'execution de cette commande : list folder
+[<ERROR>]Unable to read directory because this folder is hidden[0m
+2025/12/15 15:18:26 2025-12-15 15:18:26.3754869 +0100 CET m=+20.736129832 / 127.0.0.1:42000 / Has entered this command : reveal folder
+2025/12/15 15:18:26 DEBUG Cette commande a été reçue : reveal folder
+2025/12/15 15:18:26 DEBUG [32mSuccès[0m lors de l'execution de cette commande : reveal folder
+2025/12/15 15:18:36 2025-12-15 15:18:36.375562804 +0100 CET m=+30.736205775 / 127.0.0.1:42000 / Has entered this command : list folder
+2025/12/15 15:18:36 DEBUG Cette commande a été reçue : list folder
+2025/12/15 15:18:36 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list folder
+2025/12/15 15:18:39 2025-12-15 15:18:39.127620106 +0100 CET m=+33.488263069 / 127.0.0.1:42000 / Has entered this command : get folder
+2025/12/15 15:18:39 DEBUG Cette commande a été reçue : get folder
+2025/12/15 15:18:39 DEBUG [33mErreur lors de l'execution de cette commande : get folder
+Unknown command[0m
+2025/12/15 15:18:47 2025-12-15 15:18:47.08752491 +0100 CET m=+41.448167882 / 127.0.0.1:53226 / Has entered this command : get folder
+2025/12/15 15:18:47 DEBUG Cette commande a été reçue : get folder
+2025/12/15 15:18:47 DEBUG [33mErreur lors de l'execution de cette commande : get folder
+read /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/folder: is a directory[0m
+2025/12/15 15:18:53 2025-12-15 15:18:53.17558284 +0100 CET m=+47.536225768 / 127.0.0.1:53226 / Has entered this command : get hello.txt
+2025/12/15 15:18:53 DEBUG Cette commande a été reçue : get hello.txt
+2025/12/15 15:18:53 DEBUG [32mSuccès[0m lors de l'execution de cette commande : get hello.txt
+2025/12/15 15:19:00 2025-12-15 15:19:00.487409801 +0100 CET m=+54.848052728 / 127.0.0.1:53226 / Has entered this command : terminate
+2025/12/15 15:19:00 DEBUG Cette commande a été reçue : terminate
+2025/12/15 15:19:00 DEBUG [33mErreur lors de l'execution de cette commande : terminate
+Unknown command[0m
+2025/12/15 15:19:03 2025-12-15 15:19:03.743316891 +0100 CET m=+58.103959816 / 127.0.0.1:53226 / Has entered this command : help
+2025/12/15 15:19:03 DEBUG Cette commande a été reçue : help
+2025/12/15 15:19:03 DEBUG [32mSuccès[0m lors de l'execution de cette commande : help
+2025/12/15 15:19:06 2025-12-15 15:19:06.887298126 +0100 CET m=+61.247941055 / 127.0.0.1:42000 / Has entered this command : terminate
+2025/12/15 15:19:06 DEBUG Cette commande a été reçue : terminate
+2025/12/15 15:19:06 2025-12-15 15:19:06.887401401 +0100 CET m=+61.248044310 / 127.0.0.1:42000 / Removed this client
+2025/12/15 15:19:06 2025-12-15 15:19:06.887505359 +0100 CET m=+61.248148268 / 127.0.0.1:53226 / Removed this client
+2025/12/15 15:19:06 DEBUG [32mSuccès[0m lors de l'execution de cette commande : terminate
+2025/12/15 15:19:17 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 15:19:17 DEBUG Now listening on port 3333
+2025/12/15 15:19:23 2025-12-15 15:19:23.75927105 +0100 CET m=+6.022105478 / 127.0.0.1:35668 / Has entered this command : list
+2025/12/15 15:19:23 DEBUG Cette commande a été reçue : list
+2025/12/15 15:19:23 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 15:19:40 2025-12-15 15:19:40.646967012 +0100 CET m=+22.909801427 / 127.0.0.1:59728 / Has entered this command : help
+2025/12/15 15:19:40 DEBUG Cette commande a été reçue : help
+2025/12/15 15:19:40 DEBUG [32mSuccès[0m lors de l'execution de cette commande : help
+2025/12/15 15:19:43 2025-12-15 15:19:43.191189145 +0100 CET m=+25.454023550 / 127.0.0.1:59728 / Removed this client
+2025/12/15 15:19:46 2025-12-15 15:19:46.023359209 +0100 CET m=+28.286193617 / 127.0.0.1:35668 / Has entered this command : c
+2025/12/15 15:19:46 DEBUG Cette commande a été reçue : c
+2025/12/15 15:19:46 DEBUG [33mErreur lors de l'execution de cette commande : c
+Unknown command[0m
+2025/12/15 15:20:00 2025-12-15 15:20:00.038922157 +0100 CET m=+42.301756566 / 127.0.0.1:43062 / Has entered this command : list hello.txt
+2025/12/15 15:20:00 DEBUG Cette commande a été reçue : list hello.txt
+2025/12/15 15:20:00 ERROR Unable to read directory dir=/var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/hello.txt err="open /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/hello.txt: not a directory"
+2025/12/15 15:20:00 DEBUG [33mErreur lors de l'execution de cette commande : list hello.txt
+open /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/hello.txt: not a directory[0m
+2025/12/15 15:20:02 2025-12-15 15:20:02.92693626 +0100 CET m=+45.189770670 / 127.0.0.1:43062 / Has entered this command : list
+2025/12/15 15:20:02 DEBUG Cette commande a été reçue : list
+2025/12/15 15:20:02 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 15:20:10 2025-12-15 15:20:10.831904005 +0100 CET m=+53.094738415 / 127.0.0.1:43062 / Has entered this command : list folder
+2025/12/15 15:20:10 DEBUG Cette commande a été reçue : list folder
+2025/12/15 15:20:10 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list folder
+2025/12/15 15:20:13 2025-12-15 15:20:13.591201485 +0100 CET m=+55.854035898 / 127.0.0.1:43062 / Has entered this command : list ../
+2025/12/15 15:20:13 DEBUG Cette commande a été reçue : list ../
+2025/12/15 15:20:13 ERROR Tentative de sortir de la racine dir=/var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server
+2025/12/15 15:20:13 DEBUG [33mErreur lors de l'execution de cette commande : list ../
+[<ERROR>]Tentative de sortir de la racine[0m
+2025/12/15 15:21:50 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 15:21:50 DEBUG Now listening on port 3333
+2025/12/15 15:21:54 2025-12-15 15:21:54.957918347 +0100 CET m=+4.819688109 / 127.0.0.1:42744 / Has entered this command : list
+2025/12/15 15:21:54 DEBUG Cette commande a été reçue : list
+2025/12/15 15:21:54 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 15:21:57 2025-12-15 15:21:57.814605426 +0100 CET m=+7.676375199 / 127.0.0.1:42744 / Has entered this command : hide folder
+2025/12/15 15:21:57 DEBUG Cette commande a été reçue : hide folder
+2025/12/15 15:21:57 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide folder
+2025/12/15 15:22:56 DEBUG /var/home/E245055P/reseau/Perso/Annee_2/Semestre_1/Ressources/R305_Programmation_systeme/SAE/ric-del-pro/internal/app/server/filesStored/
+2025/12/15 15:22:56 DEBUG Now listening on port 3333
+2025/12/15 15:23:01 2025-12-15 15:23:01.7583101 +0100 CET m=+5.038571366 / 127.0.0.1:38558 / Has entered this command : list
+2025/12/15 15:23:01 DEBUG Cette commande a été reçue : list
+2025/12/15 15:23:01 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 15:23:38 2025-12-15 15:23:38.516670154 +0100 CET m=+41.796931409 / 127.0.0.1:38558 / Has entered this command : list folder
+2025/12/15 15:23:38 DEBUG Cette commande a été reçue : list folder
+2025/12/15 15:23:38 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list folder
+2025/12/15 15:23:47 2025-12-15 15:23:47.206000358 +0100 CET m=+50.486261630 / 127.0.0.1:38558 / Has entered this command : hide hello.txt
+2025/12/15 15:23:47 DEBUG Cette commande a été reçue : hide hello.txt
+2025/12/15 15:23:47 DEBUG [32mSuccès[0m lors de l'execution de cette commande : hide hello.txt
+2025/12/15 15:23:50 2025-12-15 15:23:50.886229092 +0100 CET m=+54.166490419 / 127.0.0.1:38558 / Has entered this command : list
+2025/12/15 15:23:50 DEBUG Cette commande a été reçue : list
+2025/12/15 15:23:50 DEBUG [32mSuccès[0m lors de l'execution de cette commande : list
+2025/12/15 15:23:54 2025-12-15 15:23:54.806058566 +0100 CET m=+58.086319837 / 127.0.0.1:38558 / Has entered this command : reveal hello.txt
+2025/12/15 15:23:54 DEBUG Cette commande a été reçue : reveal hello.txt
+2025/12/15 15:23:54 DEBUG [32mSuccès[0m lors de l'execution de cette commande : reveal hello.txt
+2026/02/14 12:19:11 DEBUG C:\Users\Administrateur\Downloads\ric-del-pro-main\ric-del-pro-main\internal\app\server\filesStored\
+2026/02/14 12:19:11 DEBUG Now listening on port 3333
